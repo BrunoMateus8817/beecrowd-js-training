@@ -1,4 +1,4 @@
-capa-beecrowd-js.png
+
 # 🖥️ Beecrowd JavaScript Training
 
 Resoluções de problemas do **Beecrowd** em **JavaScript** para treinar:
