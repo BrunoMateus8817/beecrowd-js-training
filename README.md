@@ -1,4 +1,4 @@
-https://github.com/BrunoMateus8817/beecrowd-js-training/blob/main/capa-beecrowd-js.png
+capa-beecrowd-js.png
 # 🖥️ Beecrowd JavaScript Training
 
 Resoluções de problemas do **Beecrowd** em **JavaScript** para treinar:
