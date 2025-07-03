@@ -1,6 +1,6 @@
+![Beecrowd JavaScript Training](https://github.com/BrunoMateus8817/beecrowd-js-training/blob/main/capa-beecrowd-js.png?raw=true)
 
 # 🖥️ Beecrowd JavaScript Training
-https://github.com/BrunoMateus8817/beecrowd-js-training/blob/429c91bcf54489c93120ed2470bb4effec480485/capa-beecrowd-js.png
 Resoluções de problemas do **Beecrowd** em **JavaScript** para treinar:
 
 ✅ Lógica de programação  
